@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 11 00:52:49 EDT 2018
+0.baseType=DIRECTORY
+0.base=/home/swati/Downloads/SimpleDynamo-swatishr/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1
